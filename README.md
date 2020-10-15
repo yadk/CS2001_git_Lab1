@@ -1,9 +1,9 @@
-# CS2001: 2020-21 Lab 1
+# CS2001: 2020-21 git Lab 1 Week 5
 
 ## Dr. Sarath Chandra Dantu
 
-### Do not make any modifications above this line.
 
+Do not make any modifications above this line.
 ---
 
 This is a database of our favourite movies:
