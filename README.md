@@ -12,3 +12,5 @@ This is a database of our favourite movies:
 Student ID | Movie | Year of Release 
 --- | --- | ---
 123456 | Dark Knight | 2009
+123456 | Avengers | 2001
+123456 | Jurassic Park 1 | 1992
