@@ -58,3 +58,9 @@ Student ID | Movie | Year of Release
 1920389 | Jurassic Park 1 | 1992
 1920389 |  Fight CLub | 1999
 1920389 | The Wolf of Wallstreet | 2013
+1945582 | The Internship | 2013
+1945582 | Avengers: Endgame | 2019
+1945582 | Iron Man | 2008
+1945582 | The Social Network | 2010
+1945582 | Thunderbirds | 2004
+1920389 | The Wolf of Wallstreet | 2013
