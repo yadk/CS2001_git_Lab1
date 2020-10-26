@@ -36,3 +36,8 @@ Student ID | Movie | Year of Release
 1920389 | Jurassic Park 1 | 1992
 1920389 |  Fight CLub | 1999
 1920389 | The Wolf of Wallstreet | 2013
+1907889 | Interstellar | 2014
+1907889 | ...And Justice For All | 1979
+1907889 | You Don't Know Jack | 2010
+1907889 | The Silence of The Lambs | 1991
+1907889 | Saving Private Ryan | 1998
