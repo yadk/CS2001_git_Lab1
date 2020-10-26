@@ -105,3 +105,8 @@ Student ID | Movie | Year of Release
 1924144 | Life of Brian | 1979
 1924144 | Goodfellas | 1990
 1924144 | Mommy | 2014
+1923963 | The Departed | 2006
+1923963 | Inception | 2010
+1923963 | Eternal Sunshine of the Spotless Mind | 2004
+1923963 | Kill Bill: Volume 1 | 2003
+1923963 | Kill Bill: Volume 2 | 2004
