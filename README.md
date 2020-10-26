@@ -63,6 +63,11 @@ Student ID | Movie | Year of Release
 1920389 | Jurassic Park 1 | 1992
 1920389 |  Fight CLub | 1999
 1920389 | The Wolf of Wallstreet | 2013
+1722450 | Shutter Island | 2010
+1722450 | Old Boy | 2003
+1722450 | Ex Machina | 2014
+1722450 | The Cabin in the Woods | 2011
+1722450 | The Lighthouse | 2019
 1945582 | The Internship | 2013
 1945582 | Avengers: Endgame | 2019
 1945582 | Iron Man | 2008
@@ -74,3 +79,4 @@ Student ID | Movie | Year of Release
 1924144 | Life of Brian | 1979
 1924144 | Goodfellas | 1990
 1924144 | Mommy | 2014
+
