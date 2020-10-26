@@ -69,3 +69,8 @@ Student ID | Movie | Year of Release
 1945582 | The Social Network | 2010
 1945582 | Thunderbirds | 2004
 1920389 | The Wolf of Wallstreet | 2013
+1813284 | Inception | 2010
+1813284 | Dragon Ball Super: Broly | 2018
+1813284 | John Wick : Chapter 2 | 2017
+1813284 | Joker | 2019
+1813284 | Get Out | 2017
