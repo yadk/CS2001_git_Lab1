@@ -26,3 +26,9 @@ Student ID | Movie | Year of Release
 123456 | Jurassic Park 1 | 1992
 123456 | JP2 | 1993
 123456 | Die Hard | 1993
+
+1920389 | American Pie | 1999
+1920389 | Redirected | 2014
+1920389 | Jurassic Park 1 | 1992
+1920389 |  Fight CLub | 1999
+1920389 | The Wolf of Wallstreet | 2013
