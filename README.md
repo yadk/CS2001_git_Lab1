@@ -15,14 +15,19 @@ Lets get started.
 
 ---
 
-### Movie database CS2001 
+### Movie database CS2001
 
 ---
 
-Student ID | Movie | Year of Release 
+Student ID | Movie | Year of Release
 --- | --- | ---
 123456 | Dark Knight | 2009
 123456 | Avengers | 2001
 123456 | Jurassic Park 1 | 1992
 123456 | JP2 | 1993
 123456 | Die Hard | 1993
+1934196 | Harry Potter | 2001
+1934196 | Howl's Moving Castle | 2004
+1934196 | Iron Man | 2008
+1934196 | The Social Network | 2010
+1934196 | Zindagi Na Milegi Dobara | 2011
