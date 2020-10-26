@@ -74,6 +74,11 @@ Student ID | Movie | Year of Release
 1920389 | Jurassic Park 1 | 1992
 1920389 |  Fight CLub | 1999
 1920389 | The Wolf of Wallstreet | 2013
+1907889 | Interstellar | 2014
+1907889 | ...And Justice For All | 1979
+1907889 | You Don't Know Jack | 2010
+1907889 | The Silence of The Lambs | 1991
+1907889 | Saving Private Ryan | 1998
 1946183 | Die hard | 2000
 1946183 | Die hard | 2001
 1946183 | Die hard | 2002
@@ -89,6 +94,7 @@ Student ID | Movie | Year of Release
 1945582 | Iron Man | 2008
 1945582 | The Social Network | 2010
 1945582 | Thunderbirds | 2004
+1920389 | The Wolf of Wallstreet | 2013
 1920389 | The Wolf of Wallstreet | 2013
 1924144 | Down by Law | 1986
 1924144 | Fear and Loathing in Las Vegas | 1998
