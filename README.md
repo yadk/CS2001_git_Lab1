@@ -69,3 +69,8 @@ Student ID | Movie | Year of Release
 1945582 | The Social Network | 2010
 1945582 | Thunderbirds | 2004
 1920389 | The Wolf of Wallstreet | 2013
+1924144 | Down by Law | 1986
+1924144 | Fear and Loathing in Las Vegas | 1998
+1924144 | Life of Brian | 1979
+1924144 | Goodfellas | 1990
+1924144 | Mommy | 2014
