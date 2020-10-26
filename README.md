@@ -45,3 +45,8 @@ Student ID | Movie | Year of Release
 1920389 | Jurassic Park 1 | 1992
 1920389 |  Fight CLub | 1999
 1920389 | The Wolf of Wallstreet | 2013
+1924144 | Down by Law | 1986
+1924144 | Fear and Loathing in Las Vegas | 1998
+1924144 | Life of Brian | 1979
+1924144 | Goodfellas | 1990
+1924144 | Mommy | 2014
