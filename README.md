@@ -26,3 +26,8 @@ Student ID | Movie | Year of Release
 123456 | Jurassic Park 1 | 1992
 123456 | JP2 | 1993
 123456 | Die Hard | 1993
+1820275| The Dark Knight | 2008
+1820275| The Irishman | 2019
+1820275| Casino | 1995
+1820275| Howl's Moving Castle | 2004
+1820275| Deadpool 2 | 2018
