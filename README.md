@@ -69,6 +69,11 @@ Student ID | Movie | Year of Release
 1920389 | Jurassic Park 1 | 1992
 1920389 |  Fight CLub | 1999
 1920389 | The Wolf of Wallstreet | 2013
+1946183 | Die hard | 2000
+1946183 | Die hard | 2001
+1946183 | Die hard | 2002
+1946183 | Die hard | 2003
+1946183 | Die hard | 2004
 1722450 | Shutter Island | 2010
 1722450 | Old Boy | 2003
 1722450 | Ex Machina | 2014
