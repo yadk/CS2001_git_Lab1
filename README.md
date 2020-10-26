@@ -31,3 +31,8 @@ Student ID | Movie | Year of Release
 1909940 | Forrest Gump | 1994
 1909940 | Pulp Fiction | 1994
 1909940 | Interstellar | 2014
+1920389 | American Pie | 1999
+1920389 | Redirected | 2014
+1920389 | Jurassic Park 1 | 1992
+1920389 |  Fight CLub | 1999
+1920389 | The Wolf of Wallstreet | 2013
