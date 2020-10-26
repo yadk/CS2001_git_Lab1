@@ -19,7 +19,6 @@ Lets get started.
 
 ---
 
-
 Student ID | Movie | Year of Release
 --- | --- | ---
 1808245 | Dark Knight | 2009
@@ -27,6 +26,11 @@ Student ID | Movie | Year of Release
 1800000 | Jurassic Park 1 | 1992
 1800000 | JP2 | 1993
 1800000 | Die Hard | 1993
+1818316 | A movie | 1992
+1818316 | A nice movie | 1993
+1818316 | Very nice movie | 1994
+1818316 | Super nice movie | 1995
+1818316 | Extremely nice movie | 1996
 1929348 | Dark Knight | 2009
 1929348| Avengers | 2001
 1929348| Avengers Endgame | 2019
