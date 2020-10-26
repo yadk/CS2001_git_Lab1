@@ -15,11 +15,12 @@ Lets get started.
 
 ---
 
-### Movie database CS2001 
+### Movie database CS2001
 
 ---
 
-Student ID | Movie | Year of Release 
+
+Student ID | Movie | Year of Release
 --- | --- | ---
 1808245 | Dark Knight | 2009
 1808245 | Avengers | 2001
@@ -43,6 +44,11 @@ Student ID | Movie | Year of Release
 123456 | Jurassic Park 1 | 1992
 123456 | JP2 | 1993
 123456 | Die Hard | 1993
+1934196 | Harry Potter | 2001
+1934196 | Howl's Moving Castle | 2004
+1934196 | Iron Man | 2008
+1934196 | The Social Network | 2010
+1934196 | Zindagi Na Milegi Dobara | 2011
 1820275| The Dark Knight | 2008
 1820275| The Irishman | 2019
 1820275| Casino | 1995
@@ -79,4 +85,3 @@ Student ID | Movie | Year of Release
 1924144 | Life of Brian | 1979
 1924144 | Goodfellas | 1990
 1924144 | Mommy | 2014
-
