@@ -26,3 +26,10 @@ Student ID | Movie | Year of Release
 123456 | Jurassic Park 1 | 1992
 123456 | JP2 | 1993
 123456 | Die Hard | 1993
+1806529 | Shawshank Redemption | 1990
+1806529 | Scarface |1989
+1806529 | Titanic | 1995
+1806529 | Spider-Man | 2007
+1806529 | Goal | 2005
+
+
