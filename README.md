@@ -78,6 +78,15 @@ Student ID | Movie | Year of Release
 1920389 | Jurassic Park 1 | 1992
 1920389 |  Fight CLub | 1999
 1920389 | The Wolf of Wallstreet | 2013
+1909523 | Example Movie 1 | 2016
+1909523 | Example Movie 2 | 2017
+1909523 | Example Movie 3 | 2018
+1909523 | Example Movie 4 | 2020
+1806000 | All The Time The Devil | 2020
+1806000 | Pitch Perfect | 2012
+1806000 | Easy A | 2010
+1806000 | Hunger Games | 2012
+1806000 | Lion King | 1994
 1907889 | Interstellar | 2014
 1907889 | ...And Justice For All | 1979
 1907889 | You Don't Know Jack | 2010
@@ -110,4 +119,8 @@ Student ID | Movie | Year of Release
 1924144 | Life of Brian | 1979
 1924144 | Goodfellas | 1990
 1924144 | Mommy | 2014
-
+1842048 | Straigh Outta Compton |2015
+1842048 | Intouchables | 2011
+1842048 | Lord of the Rings | 2001-2003
+1842048 | Dark Knight | 2008
+1842048 | Schiendlers List |1993
