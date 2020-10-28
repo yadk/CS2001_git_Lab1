@@ -78,6 +78,10 @@ Student ID | Movie | Year of Release
 1920389 | Jurassic Park 1 | 1992
 1920389 |  Fight CLub | 1999
 1920389 | The Wolf of Wallstreet | 2013
+1909523 | Example Movie 1 | 2016
+1909523 | Example Movie 2 | 2017
+1909523 | Example Movie 3 | 2018
+1909523 | Example Movie 4 | 2020
 1806000 | All The Time The Devil | 2020
 1806000 | Pitch Perfect | 2012
 1806000 | Easy A | 2010
